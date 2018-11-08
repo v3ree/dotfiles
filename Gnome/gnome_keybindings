@@ -1,0 +1,7 @@
+[/]
+open-application-menu=['<Alt><Super>space']
+[/]
+toggle-tiled-right=['<Super>l']
+toggle-tiled-left=['<Super>h']
+[/]
+screensaver='<Super>BackSpace'
