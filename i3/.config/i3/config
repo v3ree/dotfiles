@@ -192,5 +192,8 @@ exec compton -b --detect-client-opacity
 # Wallpaper load
 exec sh ~/.fehbg
 
+# Start redshift - tint at night
+exec --no-startup-id redshift &
+
 # Switch windows
 bindsym $mod+Tab exec rofi -show window
