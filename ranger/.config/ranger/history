@@ -1,0 +1,35 @@
+h
+mkdir i3status
+rename .bash_profilesd
+open_with wem
+open_with l
+rename rc-conf-help
+touch rc.conf
+open_with w3m
+rename space-colors-space-33432401-1920-1080.jpg
+rename space.jpg
+vimiv
+open_with 
+rename .vimrc
+shell 
+rename ncurses5-compat-libs.tar.gz
+shell atool -x
+shell atool -x ncurses5-compat-libs.tar.gz
+shell vim
+set color 
+open_with h
+flat
+mkdir Python
+find vim
+vim settings.ini
+touch settings.ini
+open_with vim
+color
+colorscheme 
+set colorscheme snow
+set colorscheme solarized
+delete
+set colorscheme jungle
+set colorscheme default
+help
+
