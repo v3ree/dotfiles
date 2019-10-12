@@ -1,6 +1,5 @@
 package archlinux
 package colored-man-pages
-package sudope
 theme bobthefish
 theme default
 theme shellder
