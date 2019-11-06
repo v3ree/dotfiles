@@ -96,6 +96,12 @@ colorscheme gruvbox " molokai / delek
 set foldmethod=indent
 set foldlevel=99
 
+set tabstop=4
+set softtabstop=0 
+set expandtab 
+set shiftwidth=4 
+set smarttab
+
 set number
 set relativenumber
 

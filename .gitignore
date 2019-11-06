@@ -2,3 +2,5 @@
 .stignore 
 .stversions 
 *.sync-conflict*
+*~
+*.swp
