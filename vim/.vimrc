@@ -98,7 +98,7 @@ set foldlevel=99
 
 set tabstop=4
 set softtabstop=0 
-set expandtab 
+set expandtab " this inserts spaces instead of tabs - not good for makefiles
 set shiftwidth=4 
 set smarttab
 
